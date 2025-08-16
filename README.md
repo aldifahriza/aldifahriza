@@ -1,4 +1,3 @@
-## Hi there, 👋 I'm Fahriza
 <p align="center">
   <img src="https://github.com/aldifahriza/aldifahriza/blob/main/Black%20White%20Modern%20Financial%20Content%20YouTube%20Banner.png" />
 </p>
