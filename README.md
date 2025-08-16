@@ -45,5 +45,6 @@
 ### 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahriza-haldi-b72168373/)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahrizahaldi52@gmail.com)
-*Not just analyzing data, but making it tell stories that inspire decisions.*
 ---
+*Not just analyzing data, but making it tell stories that inspire decisions.*
+
