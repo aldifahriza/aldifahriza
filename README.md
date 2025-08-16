@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/aldifahriza/aldifahriza/blob/main/Banner.png" />
 </p>
 
-🚀 Self-taught **Business Intelligence Analyst** passionate about turning data into impactful insights.  
+🚀 Self-taught **Business Intelligence Analyst and Data Analyst** passionate about turning data into impactful insights.  
 💡 I believe data is more than numbers — it’s a story waiting to be told.  
 
 ---
@@ -27,12 +27,12 @@
 ---
 
 ### 📚 Learning Journey
-🎓 Currently growing my skills through hands-on projects and courses on Udemy.  
-🌍 Building a portfolio that reflects my creative + analytical mindset.  
+- 🎓 Currently growing my skills through hands-on projects and courses on Udemy.  
+- 🌍 Building a portfolio that reflects my creative + analytical mindset.  
 ---
 ### ✨ Fun Fact
-☕ Coffee + Data = My happy place  
-🎯 My goal: Become a BI Analyst who crafts **insightful & creative data stories**  
+- ☕ Coffee + Data = My happy place  
+- 🎯 My goal: Become a BI or Data Analyst who crafts **insightful & creative data stories**  
 ---
 
 ### 📈 GitHub Stats
