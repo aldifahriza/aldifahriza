@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/aldifahriza/aldifahriza/blob/main/Banner.png" />
+  <img src="https://github.com/aldifahriza/aldifahriza/blob/main/Banner-github.png" />
 </p>
 
 🚀 Self-taught **Business Intelligence Analyst and Data Analyst** passionate about turning data into impactful insights.  
