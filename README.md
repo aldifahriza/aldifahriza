@@ -43,7 +43,7 @@
 
 ---
 ## 🎮 Play My Game
-- [![Game Preview](https://raw.githubusercontent.com/aldifahriza/-Number-Guessing-Game/main/screenshot.png)](https://aldifahriza.github.io/-Number-Guessing-Game/)
+- [![Play the Game](https://img.shields.io/badge/Play%20Now-Click%20Here-brightgreen?style=for-the-badge)](https://aldifahriza.github.io/-Number-Guessing-Game/)
 
 --- 
 ### 📫 Reach Me
