@@ -41,6 +41,10 @@
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldifahriza&layout=compact&theme=radical)  
 
+---
+## 🎮 Play My Game
+- 🐍 [Number Guessing Game](https://github.com/aldifahriza/-Number-Guessing-Game/blob/main/index.html)
+
 --- 
 ### 📫 Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fahriza-haldi-b72168373/)  
