@@ -43,7 +43,7 @@
 
 ---
 ## 🎮 Play My Game
-- 🐍 [Number Guessing Game](https://github.com/aldifahriza/-Number-Guessing-Game/blob/main/index.html)
+- 🐍 [Number Guessing Game](https://aldifahriza.github.io/-Number-Guessing-Game/)
 
 --- 
 ### 📫 Reach Me
